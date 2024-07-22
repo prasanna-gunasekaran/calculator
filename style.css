@@ -1,0 +1,27 @@
+div{
+    padding: 30px;
+    background-color: greenyellow;
+    display:inline-block;
+    border: solid 5px;
+    border-radius: 15px;
+}
+button{
+    padding: 20px;
+    border-radius: 100%;
+    margin-top: 10px;
+    margin-left: 8px;
+    border: none;
+    font-weight: bold;
+    background-color: rgb(231, 163, 15);
+}
+input{
+    padding: 20px;
+    border-radius: 10px;
+    width: 230px;
+    font-size: large;
+    text-align: end;
+    border: none;
+    font-weight: bold;
+}
+
+
